@@ -1,0 +1,707 @@
+{
+  "appTitle": "CropX AI",
+  "tagline": "Precision Agriculture",
+  "nav": {
+    "dashboard": "Dashboard",
+    "cropRecommendation": "Crop Recommendation",
+    "pestDetection": "Pest Detection",
+    "labPanel": "Lab Panel",
+    "aiChat": "AI Chat",
+    "marketInsights": "Market Insights"
+  },
+  "user": {
+    "name": "John Doe",
+    "plan": "Premium Plan"
+  },
+  "topbar": {
+    "searchPlaceholder": "Search crops, pests, or market trends..."
+  },
+  "notifications": {
+    "panelTitle": "Crop alerts",
+    "subtitle": "Weather, market & AI insights",
+    "empty": "No alerts yet. They appear after the next smart check.",
+    "markAllRead": "Mark all read",
+    "loading": "Loading…",
+    "enablePush": "Desktop alerts",
+    "pushDenied": "Notifications are blocked in your browser.",
+    "typeWeather": "Weather",
+    "typeMarket": "Market",
+    "typeCrop": "Crop",
+    "typePest": "Pest",
+    "typeSmart": "AI insight"
+  },
+  "smartFarming": {
+    "close": "Close",
+    "openDetails": "Details",
+    "aiInsight": "AI insight",
+    "loadingAi": "Generating smart tip…",
+    "irrigationTitle": "Irrigation schedule",
+    "fertilizerTitle": "Fertilizer calculator",
+    "organicTitle": "Organic pesticides",
+    "weatherTitle": "Local weather",
+    "insightsTitle": "Farm analytics",
+    "crop": "Crop",
+    "landArea": "Land area",
+    "hectares": "Hectares",
+    "soilType": "Soil type",
+    "soilAlluvial": "Alluvial",
+    "soilBlack": "Black",
+    "soilRed": "Red",
+    "soilLaterite": "Laterite",
+    "soilSandy": "Sandy loam",
+    "soilClay": "Clay loam",
+    "calculate": "Calculate",
+    "urea": "Urea",
+    "dap": "DAP",
+    "mop": "MOP (Potash)",
+    "schedule": "Application schedule",
+    "organicRec": "Organic complement",
+    "totalForPlot": "Total for your plot",
+    "perHa": "Per hectare",
+    "nextWatering": "Next watering guidance",
+    "rainAlert": "Rain outlook",
+    "moistureTip": "Moisture & humidity",
+    "cropWaterTip": "Crop-specific water",
+    "pickRecipe": "Recommended treatments",
+    "prep": "Preparation",
+    "timing": "Spray timing",
+    "precautions": "Precautions",
+    "forecast3d": "3-day outlook",
+    "rainProb": "Rain probability",
+    "farmAdvice": "Field advice",
+    "humidity": "Humidity",
+    "soilMoisture": "Soil moisture (estimate)",
+    "soilHealth": "Soil health index",
+    "cropHealth": "Crop vigour score",
+    "nutrientLevel": "Nutrient outlook",
+    "irrigationNeed": "Irrigation need",
+    "rainfallOutlook": "Rainfall outlook",
+    "statusGood": "Good",
+    "statusMid": "Watch",
+    "statusRisk": "Attention",
+    "nutLow": "Lean — soil test advised",
+    "nutMed": "Balanced — maintain rotation",
+    "nutHigh": "Fertile — avoid excess N",
+    "irrLow": "Low — rains helping",
+    "irrMed": "Medium — monitor soil",
+    "irrHigh": "High — prioritise critical stages",
+    "profileCropHint": "Uses crops & soil from your profile — edit in Profile."
+  },
+  "auth": {
+    "title": "Welcome Back",
+    "subtitle": "Login to continue to CropX AI",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Register to access CropX AI platform",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "registerButton": "Register",
+    "registering": "Registering...",
+    "loginError": "Login failed. Please check your email and password.",
+    "registerError": "Registration failed. Please try with different details.",
+    "logout": "Logout",
+    "demoTitle": "Demo credentials:",
+    "demoHint": "Create an account from Register or use existing backend users.",
+    "noAccount": "Don't have an account?",
+    "goRegister": "Register",
+    "haveAccount": "Already have an account?",
+    "goLogin": "Login"
+  },
+  "dashboard": {
+    "hello": "Hello Farmer",
+    "helloSubDesk": "Here is what's happening in your fields today.",
+    "helloSubMob": "Your field is healthy. 3 tasks need attention today.",
+    "weather": {
+      "location": "PUNJAB, INDIA",
+      "condition": "Sunny",
+      "humidity": "HUMIDITY",
+      "wind": "WIND",
+      "precipitation": "PRECIPITATION",
+      "todayForecast": "Today's Forecast",
+      "perfectFor": "Perfect for Soil Testing"
+    },
+    "stats": {
+      "optimal": "Optimal",
+      "good": "Good",
+      "soilMoisture": "Soil Moisture",
+      "cropHealth": "Crop Health",
+      "excellent": "Excellent"
+    },
+    "quickActions": "Quick Actions",
+    "cards": {
+      "pestDetection": {
+        "title": "Pest Detection",
+        "desc": "Scan your crops for potential pest threats and diseases using AI vision.",
+        "action": "Start Scan"
+      },
+      "soilTesting": {
+        "title": "Soil Testing",
+        "desc": "Analyze NPK levels and pH balance to optimize your fertilizer application.",
+        "action": "View Report"
+      },
+      "cropGuide": {
+        "title": "Crop Guide",
+        "titleMob": "Crop Recommendation",
+        "desc": "Get data-driven recommendations on which crops to sow next season.",
+        "descMob": "AI-based yield prediction",
+        "action": "Get Insights"
+      },
+      "marketInsights": {
+        "title": "Market Insights",
+        "desc": "Real-time mandi prices and global demand trends for your produce.",
+        "descMob": "Live Mandi prices & trends",
+        "action": "Check Prices"
+      }
+    },
+    "aiBanner": {
+      "online": "AI ASSISTANT ONLINE",
+      "title": "Need expert advice on your crops?",
+      "desc": "Our AI assistant can help you identify diseases from photos, calculate yield estimates, and provide personalized irrigation schedules.",
+      "startChatting": "Start Chatting",
+      "seeHistory": "See History"
+    }
+  },
+  "pestDetection": {
+    "title": "Pest Detection",
+    "subtitle": "Upload clear images of crop leaves or stems to identify pests and get treatment recommendations.",
+    "uploadBox": {
+      "title": "Identify Pest in Seconds",
+      "descDesk": "Drag and drop your image here or use the options below",
+      "descMob": "Clear photo helps AI detect pests faster",
+      "mobileTitle": "Tap to Capture",
+      "mobileBanner": "Upload photo of the pest",
+      "useCamera": "Use Camera",
+      "chooseGallery": "Choose from Gallery",
+      "camera": "Camera",
+      "gallery": "Gallery"
+    },
+    "instructions": {
+      "englishLabel": "ENGLISH",
+      "hindiLabel": "हिन्दी (HINDI)",
+      "en1": "Ensure bright natural light",
+      "en2": "Keep the pest/leaf in focus",
+      "en3": "Avoid blurry or dark photos",
+      "hi1": "प्राकृतिक रोशनी का प्रयोग करें",
+      "hi2": "कीट या पत्ते पर फोकस रखें",
+      "hi3": "धुंधली फोटो अपलोड न करें"
+    },
+    "techSpecs": {
+      "version": "AI Model version 4.2.0 (High Precision)",
+      "formats": "Supports: JPG, PNG, HEIC (Max 15MB)"
+    },
+    "quickGuides": {
+      "title": "QUICK GUIDES",
+      "lighting": "Better Lighting",
+      "focus": "Focus on Pest"
+    },
+    "sidebar": {
+      "title": "Recent Scans",
+      "viewAll": "VIEW ALL",
+      "stats": {
+        "criticalNum": "12",
+        "criticalLabel": "CRITICAL THIS WEEK",
+        "healthNum": "84%",
+        "healthLabel": "HEALTH SCORE"
+      },
+      "badges": {
+        "critical": "CRITICAL",
+        "moderate": "MODERATE",
+        "healthy": "HEALTHY"
+      },
+      "items": [
+        {
+          "title": "Aphid Infestation",
+          "subtitle": "Tomato Crop • Block B",
+          "time": "Oct 24, 2023 • 10:15 AM",
+          "status": "critical"
+        },
+        {
+          "title": "Cabbage Looper",
+          "subtitle": "Cabbage • Greenhouse 1",
+          "time": "Oct 23, 2023 • 04:30 PM",
+          "status": "moderate"
+        },
+        {
+          "title": "Leaf Rust",
+          "subtitle": "Wheat • Block A",
+          "time": "Oct 22, 2023 • 09:12 AM",
+          "status": "moderate"
+        },
+        {
+          "title": "No Pests Detected",
+          "subtitle": "Maize • Field North",
+          "time": "Oct 21, 2023 • 02:45 PM",
+          "status": "healthy"
+        }
+      ],
+      "mobileItems": [
+         {
+          "title": "Green Aphid Colony",
+          "action": "Treatment Recommended",
+          "time": "2 hours ago",
+          "status": "critical"
+        },
+        {
+          "title": "Brown Plant Hopper",
+          "action": "Monitoring Advised",
+          "time": "Yesterday",
+          "status": "moderate"
+        }
+      ]
+    }
+  },
+  "aiChat": {
+    "title": "AI Assistant",
+    "subtitle": "Multilingual Support",
+    "status": "Online",
+    "today": "TODAY",
+    "quickActions": {
+      "photoUpload": "Photo Upload",
+      "buyFertilizer": "Buy Fertilizer"
+    },
+    "inputPlaceholder": "Type here...",
+    "askPlaceholder": "Ask CropX AI... (e.g. 'How to improve soil pH?')",
+    "enterToSend": "Enter to send",
+    "autoTranslate": "Automatic Translation Active",
+    "apiError": "Something went wrong, try again",
+    "welcomeMessage": "Namaste! I'm CropAI — ask me anything about crops, pests, irrigation, soil, or weather. You can write in Hindi, English, or Hinglish.",
+    "fallbackOffline": "I'm having trouble reaching the AI service right now. Please try again in a moment.\n\nMeanwhile, tell me: which crop is affected, what symptoms you see, recent weather, and how big the area is — I'll help when we're back online.",
+    "askPlaceholderVoice": "Speak your farming problem… (tap mic)",
+    "voiceListening": "Listening… speak clearly",
+    "voiceTapToStop": "Tap mic to stop",
+    "voiceDenied": "Microphone permission denied. Allow mic access in your browser settings.",
+    "voiceNoSpeech": "No speech detected. Tap mic and try again.",
+    "voiceAudioCapture": "No microphone found or it could not be opened. Check that a mic is plugged in and allowed in browser settings.",
+    "voiceNetwork": "Speech recognition needs the internet. Check your connection, firewall, or VPN and try again.",
+    "voiceServiceDenied": "Speech recognition is blocked by your browser or device. Try Chrome or Edge, or check site permissions (HTTPS).",
+    "voiceLangUnsupported": "Speech recognition does not support this language here. Switch language or type instead.",
+    "voiceError": "Voice input failed. You can type instead.",
+    "voiceUnsupported": "Voice input is not supported in this browser. Please type your question.",
+    "voiceAutoSendLabel": "Auto-send after speaking",
+    "voiceSpeakReplyLabel": "Read AI reply aloud",
+    "sidebar": {
+      "suggestedTopics": "SUGGESTED TOPICS",
+      "irrigation": {
+        "title": "Irrigation Schedule",
+        "desc": "Plan water supply based on local weather forecast."
+      },
+      "fertilizer": {
+        "title": "Fertilizer Calculator",
+        "desc": "Calculate NPK requirements for the current season."
+      },
+      "pesticides": {
+        "title": "Organic Pesticides",
+        "desc": "Safe and natural ways to protect your wheat crop."
+      },
+      "farmInsights": "FARM INSIGHTS",
+      "humidity": "Humidity",
+      "soilHealth": "Soil Health",
+      "optimal": "Optimal",
+      "localForecast": "Local Forecast",
+      "forecastDesc": "Light Rain Expected"
+    },
+    "mockMessages": {
+      "ai1": "Hello Jai! How can I help with your crops today? Your soil moisture is currently 24%.",
+      "user1": "My wheat crops are turning yellow, is it nitrogen deficiency?",
+      "ai2": "Please send a photo of the affected leaves. You can also use \"Pest Detection\" mode for analysis.",
+      "clickToAnalyze": "Click to analyze visual symptoms"
+    }
+  },
+  "marketInsights": {
+    "title": "Market Insights",
+    "subtitle": "Real-time pricing and predictive analytics for your harvest strategy.",
+    "breadcrumbs": "MARKET DATA > COMMODITY TRENDS",
+    "last30Days": "Last 30 Days",
+    "exportReport": "Export Report",
+    "tabs": {
+      "wheat": "Wheat",
+      "rice": "Rice",
+      "corn": "Corn"
+    },
+    "currentPrice": {
+      "title": "Wheat Price Trend",
+      "titleMob": "Current Price",
+      "premium": "PREMIUM",
+      "subtitle": "Market: Central Grain Hub • Qty: per quintal (100kg)",
+      "price": "₹2,450.00",
+      "priceMob": "₹2,450",
+      "perQuintal": "/ Quintal",
+      "change": "+4.2% from last month",
+      "changeMob": "+4.2%",
+      "now": "Now: ₹2450",
+      "peak": "Peak: ₹2,450"
+    },
+    "recommendation": {
+      "title": "Sell Recommendation",
+      "titleMob": "Best Time to Sell",
+      "desc": "Based on current demand cycles and harvesting trends, the optimal window to liquidate your wheat inventory is approaching.",
+      "bestTime": "BEST TIME TO SELL",
+      "time": "Next Month (May 2024)",
+      "timeDesk": "Next 14-21 Days",
+      "expectedPrice": "Expected Price: ₹2,600 - ₹2,750",
+      "btn": "View Market Connectivity"
+    },
+    "localMandi": {
+      "title": "Local Mandi Prices",
+      "titleMob": "Local Mandi",
+      "nearYou": "NEAR YOU",
+      "viewAll": "VIEW ALL LOCATIONS",
+      "loc1": "Indore Mandi",
+      "loc1Mob": "Indore",
+      "loc2": "Ujjain Grain Market",
+      "loc3": "Bhopal Hub"
+    },
+    "marketDemand": {
+      "title": "Market Demand",
+      "export": "Export Demand",
+      "exportVal": "High",
+      "domestic": "Domestic Milling",
+      "domesticVal": "Moderate",
+      "storage": "Storage Availability",
+      "storageVal": "Low",
+      "note": "Global supply chains are tightening due to weather events in the North. Export inquiries have increased by 15% this week."
+    },
+    "marketNews": {
+      "title": "Market News",
+      "titleMob": "Recent News",
+      "readAll": "READ ALL NEWS",
+      "news1": {
+        "tag": "POLICY UPDATES",
+        "time": "2h ago",
+        "title": "New MSP bracket announced for winter crops.",
+        "desc": "Government introduces revised Minimum Support Price for Wheat and Barley with a..."
+      },
+      "news1Mob": {
+        "title": "Government increases MSP for Wheat to ₹2,400",
+        "meta": "2 hours ago • Business Insight"
+      },
+      "news2": {
+        "tag": "GLOBAL TRADE",
+        "time": "5h ago",
+        "title": "Export ban eased on select basmati varieties.",
+        "desc": "Recent trade negotiations result in partial opening of the EU market for high-grade long..."
+      },
+      "news3": {
+        "tag": "LOGISTICS",
+        "time": "1d ago",
+        "title": "Freight rates stabilize after seasonal peak.",
+        "desc": "Lower transportation costs offer farmers marginally better profit margins this quarter."
+      }
+    },
+    "otherCommodities": {
+      "title": "Other Commodities",
+      "paddy": "PADDY",
+      "soybean": "SOYBEAN",
+      "mustard": "MUSTARD",
+      "cotton": "COTTON"
+    }
+  },
+  "cropRecommendation": {
+    "title": "Find Best Crop",
+    "subtitle": "Expert AI recommendations based on your field data.",
+    "form": {
+      "soilType": "Soil Type",
+      "soilOptions": {
+        "alluvial": "Alluvial",
+        "black": "Black",
+        "red": "Red",
+        "laterite": "Laterite"
+      },
+      "weather": "Weather Forecast",
+      "weatherOptions": {
+        "moderateRain": "Moderate Rain",
+        "sunny": "Sunny",
+        "cloudy": "Cloudy",
+        "heavyRain": "Heavy Rain"
+      },
+      "season": "Season",
+      "seasonOptions": {
+        "rabi": "Rabi",
+        "kharif": "Kharif",
+        "zaid": "Zaid"
+      },
+      "submit": "Get Recommendation",
+      "loading": "Generating recommendation..."
+    },
+    "apiError": "Unable to fetch recommendation right now. Please try again.",
+    "result": {
+      "topMatch": "Top Match",
+      "accuracy": "98% ACCURACY",
+      "cropName": "Wheat",
+      "scientificName": "Scientific Name: Triticum aestivum",
+      "durationLabel": "Duration",
+      "durationVal": "110-140 Days",
+      "waterNeedLabel": "Water Need",
+      "waterNeedVal": "Moderate",
+      "whyCrop": "Why this crop?",
+      "reasons": {
+        "1": "Perfectly suited for Alluvial soil in your region.",
+        "2": "Optimal growth conditions during the upcoming Rabi season.",
+        "3": "Resistant to current humidity levels in your area."
+      },
+      "cta": "View Detailed Sowing Guide",
+      "noDetails": "Recommendation details are not available right now."
+    }
+  },
+  "cropDetailPage": {
+    "loading": "Loading crop intelligence…",
+    "error": "Unable to load crop details.",
+    "notFound": "Crop not found.",
+    "heroBadge": "AI analysis generated",
+    "confidence": "AI confidence",
+    "smartRecoTitle": "AI smart recommendation",
+    "riskTitle": "Risk analysis",
+    "timelineTitle": "Farming timeline",
+    "organicTitle": "Organic farming tips",
+    "yieldTitle": "Yield prediction",
+    "profitTitle": "Profit estimation",
+    "overviewTitle": "Crop overview",
+    "soilTitle": "Soil & nutrient intelligence",
+    "irrigationTitle": "Irrigation strategy",
+    "diseaseTitle": "Disease & pest intelligence",
+    "weatherTitle": "Weather compatibility",
+    "marketTitle": "Market intelligence",
+    "guideTitle": "Field operations guide",
+    "fallbackInsight": "Extended agronomic models for this crop are rolling out. Follow the guide below and validate with your local advisor.",
+    "fields": {
+      "whySuitable": "Why suitable",
+      "climate": "Ideal climate",
+      "yield": "Expected yield",
+      "soil": "Suitable soil",
+      "ph": "pH range",
+      "nutrients": "Nutrient requirements",
+      "npk": "NPK strategy",
+      "frequency": "Water frequency",
+      "criticalStages": "Critical watering stages",
+      "overwatering": "Overwatering warning",
+      "drought": "Drought tips",
+      "diseases": "Common diseases",
+      "pests": "Common pests",
+      "prevention": "Prevention",
+      "organic": "Organic treatment",
+      "chemical": "Chemical treatment",
+      "temp": "Ideal temperature",
+      "rainfall": "Rainfall range",
+      "humidity": "Humidity",
+      "seasonal": "Seasonal compatibility",
+      "demand": "Market demand",
+      "priceTrend": "Price trend",
+      "bestSeason": "Best selling season",
+      "export": "Export potential",
+      "profit": "Profit outlook",
+      "production": "Estimated production",
+      "quality": "Expected quality",
+      "duration": "Harvest duration",
+      "income": "Expected income",
+      "investment": "Investment level",
+      "stability": "Market stability",
+      "summary": "Description"
+    },
+    "riskKeys": {
+      "disease": "Disease risk",
+      "water": "Water risk",
+      "fertilizer": "Fertilizer risk",
+      "weather": "Weather risk"
+    }
+  },
+  "soilWorkflow": {
+    "progressLabel": "Workflow Progress",
+    "steps": {
+      "soilRequest": "Request",
+      "labProcessing": "Processing",
+      "labStatus": "Lab",
+      "soilReport": "Report",
+      "aiAnalysis": "AI Analysis",
+      "cropRecommendation": "Crop",
+      "irrigationAdvice": "Irrigation",
+      "pestDetection": "Pest",
+      "marketInsights": "Market"
+    },
+    "navigation": {
+      "back": "Back",
+      "next": "Next",
+      "finish": "Finish Flow"
+    },
+    "levels": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "soilTypes": {
+      "alluvial": "Alluvial",
+      "black": "Black Soil",
+      "red": "Red Soil",
+      "laterite": "Laterite",
+      "sandyLoam": "Sandy Loam",
+      "clayLoam": "Clay Loam"
+    },
+    "regions": {
+      "punjab": "Punjab",
+      "maharashtra": "Maharashtra",
+      "karnataka": "Karnataka",
+      "kerala": "Kerala",
+      "rajasthan": "Rajasthan",
+      "uttarPradesh": "Uttar Pradesh"
+    },
+    "request": {
+      "title": "Soil Sample Request",
+      "subtitle": "Register your field sample before lab testing starts.",
+      "fields": {
+        "sampleId": "Sample ID",
+        "farmerName": "Farmer Name",
+        "village": "Village / Location"
+      },
+      "placeholders": {
+        "sampleId": "e.g. SR-AI-2026-01",
+        "farmerName": "Enter farmer name",
+        "village": "Enter village name"
+      },
+      "note": "Sample pickup usually happens within 24 hours and report is generated after core nutrient tests."
+    },
+    "labStatus": {
+      "title": "Lab Processing Status",
+      "subtitle": "Your sample is being analyzed for pH and NPK values.",
+      "metrics": {
+        "etaLabel": "Estimated Time",
+        "etaValue": "2-4 Hours",
+        "stageLabel": "Current Stage",
+        "stageValue": "Nutrient Testing",
+        "sampleLabel": "Sample Code"
+      },
+      "timelineTitle": "Processing Timeline",
+      "timeline": [
+        { "title": "Sample received at local lab", "time": "10:15 AM" },
+        { "title": "Pre-processing completed", "time": "11:00 AM" },
+        { "title": "NPK and pH analysis running", "time": "In progress" }
+      ]
+    },
+    "report": {
+      "title": "Soil Test Report",
+      "subtitle": "Latest report generated from lab values.",
+      "ph": "pH Value",
+      "nitrogen": "Nitrogen",
+      "phosphorus": "Phosphorus",
+      "potassium": "Potassium",
+      "soilType": "Soil Type",
+      "region": "Region",
+      "refreshHint": "A new randomized report is selected whenever this report page is opened.",
+      "randomize": "Generate New Sample Report"
+    },
+    "aiAnalysis": {
+      "title": "AI Soil Analysis",
+      "subtitle": "Actionable insights generated from your soil report.",
+      "heading": "Interpretation",
+      "missingReport": "No soil report found in this session. Open Soil Report to generate one.",
+      "goToReport": "Open Soil Report",
+      "messages": {
+        "lowNitrogen": "Nitrogen deficiency detected. Increase nitrogen-rich fertilizer in split doses.",
+        "highNitrogen": "Nitrogen is already high. Avoid over-application to reduce lodging risk.",
+        "lowPhosphorus": "Phosphorus is below optimal range. Add DAP or SSP based on crop stage.",
+        "lowPotassium": "Potassium is low. Apply muriate of potash for better root strength.",
+        "highPh": "Soil is slightly alkaline. Use organic matter and acid-forming fertilizers to balance pH.",
+        "lowPh": "Soil is acidic. Apply agricultural lime in recommended quantities.",
+        "balancedPh": "Soil pH is in a favorable range for most field crops.",
+        "noCriticalAlert": "No critical nutrient alert detected. Continue balanced nutrient management."
+      }
+    },
+    "irrigation": {
+      "title": "Irrigation Advice",
+      "subtitle": "Water scheduling tailored to current soil condition.",
+      "missingReport": "Irrigation advice needs an active soil report.",
+      "goToReport": "Generate Soil Report",
+      "cards": {
+        "waterNeed": "Water Need",
+        "frequency": "Irrigation Frequency",
+        "window": "Best Time Window"
+      },
+      "window": "Early morning or late evening",
+      "waterNeedLevels": {
+        "normal": "Normal",
+        "medium": "Medium",
+        "high": "High"
+      },
+      "frequency": {
+        "normal": "Every 4-5 days",
+        "medium": "Every 3-4 days",
+        "high": "Every 2-3 days"
+      },
+      "recommendationsTitle": "Smart Recommendations",
+      "recommendations": {
+        "normal": [
+          "Maintain moderate irrigation and avoid standing water.",
+          "Monitor field moisture before each cycle."
+        ],
+        "medium": [
+          "Use shorter irrigation cycles to prevent nutrient washout.",
+          "Add mulch around root zone to preserve moisture."
+        ],
+        "high": [
+          "Increase irrigation frequency with lower volume per cycle.",
+          "Prioritize drip or furrow method for efficient water use."
+        ]
+      }
+    }
+  },
+  "labDashboard": {
+    "title": "Lab Dashboard",
+    "subtitle": "Manage incoming soil test requests and upload final nutrient reports.",
+    "requests": {
+      "title": "Soil Test Requests",
+      "actions": {
+        "accept": "Accept",
+        "update": "Update Status",
+        "status": {
+          "pending": "Pending",
+          "accepted": "Accepted",
+          "inProgress": "In Progress",
+          "completed": "Completed"
+        }
+      }
+    },
+    "upload": {
+      "title": "Upload Soil Report",
+      "selectedRequest": "Selected Request",
+      "fields": {
+        "nitrogen": "Nitrogen (N)",
+        "phosphorus": "Phosphorus (P)",
+        "potassium": "Potassium (K)",
+        "ph": "pH Value"
+      },
+      "selectLevel": "Select level",
+      "submit": "Submit Report"
+    },
+    "stats": {
+      "pending": "Pending Requests",
+      "completed": "Completed Reports"
+    },
+    "helperNote": "After submit, the request is marked completed and the workflow continues to Soil Report."
+  },
+  "labProcessing": {
+    "title": "Lab Processing",
+    "subtitle": "Your sample is currently being processed in our lab.",
+    "steps": {
+      "sampleCollected": "Sample Collected",
+      "labTesting": "Lab Testing",
+      "reportGeneration": "Report Generation",
+      "completed": "Completed"
+    },
+    "messages": {
+      "analyzingNutrients": "Analyzing soil nutrients...",
+      "testingPh": "Testing pH levels...",
+      "generatingReport": "Generating report..."
+    }
+  },
+  "bottomNav": {
+    "home": "Home",
+    "pests": "Pests",
+    "aiChat": "AI Chat",
+    "market": "Market",
+    "profile": "Profile",
+    "askAiChat": "Ask AI Chat"
+  }
+}
