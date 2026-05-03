@@ -229,6 +229,12 @@ cropxai/
 git clone https://github.com/gopalsongara/cropxai.git
 ```
 
+
+🔗 Project Links
+Live Demo
+
+https://cropxai.vercel.app/
+
 ---
 
 # Frontend Setup
@@ -309,6 +315,6 @@ CropX AI aims to empower farmers with smart technology, real-time insights, and 
 
 ---
 
-# 📜 License
 
-This project is licensed under the MIT License.
+
+
