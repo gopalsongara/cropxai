@@ -209,25 +209,8 @@ Farmers can calculate:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-cropxai/
-│
-├── frontend/
-├── backend/
-├── README.md
-```
-
----
 
 # ⚙️ Installation Guide
-
-## Clone Repository
-
-```bash
-git clone https://github.com/gopalsongara/cropxai.git
-```
 
 
 🔗 Project Links
@@ -237,25 +220,6 @@ https://cropxai.vercel.app/
 
 ---
 
-# Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-# Backend Setup
-
-```bash
-cd backend
-npm install
-npm start
-```
-
----
 
 
 # 🌍 Supported Languages
@@ -285,14 +249,7 @@ CropX AI is fully optimized for:
 
 ---
 
-# 👥 Team Members
 
-* Gopal Songara
-* Rudraksh Kushwah
-* Priyanka Kushwah
-* Muskan Rathore
-
----
 
 # 🎯 Project Goal
 
