@@ -257,21 +257,6 @@ npm start
 
 ---
 
-# 🔑 Environment Variables
-
-Create `.env` file inside backend folder:
-
-```env
-MONGO_URI=mongodb+srv://gopalrajputpy_db_user:p81WEmEfBt2g4JMQ@interview-ai-cluster.zlpins5.mongodb.net/interview-master
-JWT_SECRET=042f06d9df470a8b2897a5b79d5b25fad0f852aa
-PORT=4000
-GROQ_API_KEY=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
-OPENWEATHER_API_KEY=0de792e140479ce42ed2a17e17be8a3f
-DATA_GOV_API_KEY=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b
-GEMINI_API_KEY=AIzaSyCMlCZDUJgB78hrZG-68yYWbxKGCrHp5yU
-```
-
----
 
 # 🌍 Supported Languages
 
